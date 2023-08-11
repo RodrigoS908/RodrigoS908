@@ -5,7 +5,13 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RodrigoS908&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private+tre"/>
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoS908&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-  
+
+##
+
+  <div>
+  <img align="right" width="13%" src="https://cdn.discordapp.com/attachments/693693263739355197/1139404026543362148/Design_sem_nome_3.gif">
+</div>
+
 <div style="display: inline_block"><br>
   <img width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -17,10 +23,12 @@
   <img width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
   <img width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="right" width="13%" src="https://cdn.discordapp.com/attachments/693693263739355197/1139404026543362148/Design_sem_nome_3.gif">
+  
 </div>
 
-##
+
+
+
 ##
 
 <div>
