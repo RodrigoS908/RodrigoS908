@@ -1,10 +1,14 @@
-### Olá bem vindo ao meu perfil
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-<div>
-  <a href="https://github.com/RodrigoS908">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RodrigoS908&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private+tre"/>
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoS908&layout=compact&langs_count=16&theme=midnight-purple"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,Bem+ao+meu+perfil!)](https://git.io/typing-svg)
+
+
+<div align="center">  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RodrigoS908&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="RodrigoS908 github stats" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoS908&layout=compact&hide_border=true&title_color=4B0082&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoS908&bg_color=000000&color=ffffff&line=4b0082&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
@@ -27,17 +31,13 @@
 </div>
 
 
-
-
 ##
 
 <div>
-  <a href="https://instagram.com/rodrigo_s908" target="blank"><img width="18%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <a href="https://linkedin.com/in/rodrigo-silvério-2399a2267/" target="blank"><img width="17%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://rodrigos.itch.io" target="blank"><img width="14.5%" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
-  <a href="https://linktr.ee/rodrigosds" target="blank"><img width="16.7%" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  <a href="https://instagram.com/rodrigo_s908" target="blank"><img width="9%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://linkedin.com/in/rodrigo-silvério-2399a2267/" target="blank"><img width="8.5%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://rodrigos.itch.io" target="blank"><img width="7.25%" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  <a href="https://linktr.ee/rodrigosds" target="blank"><img width="8.3%" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </div>
 
-          
-![Sanke animation](RodrigoS908)          
-          
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
